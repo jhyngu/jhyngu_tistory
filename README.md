@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/50>Spring Web MVC - 모델(Model) 폼 데이터 처리</a></br><a href=https://jhyngu.tistory.com/49>Spring Web MVC - 세션(Session)</a></br><a href=https://jhyngu.tistory.com/48>Spring Web MVC - 쿠키(Cookie)</a></br><a href=https://jhyngu.tistory.com/47>Spring Web MVC - HTTP 요청 파라미터 처리</a></br><a href=https://jhyngu.tistory.com/46>Spring Web MVC - HTTP 요청 RequestMapping</a></br>
+<a href=https://jhyngu.tistory.com/64>스프링 JWT 심화 1 : 실습 목표</a></br><a href=https://jhyngu.tistory.com/63>Spring Security JWT 13 : CORS 설정</a></br><a href=https://jhyngu.tistory.com/62>Spring Security JWT 12 : 세션 정보</a></br><a href=https://jhyngu.tistory.com/61>Spring Security JWT 7 : 로그인 필터 구현</a></br><a href=https://jhyngu.tistory.com/60>Spring Security JWT 10 : 로그인 성공 JWT 발급</a></br>

@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/77>Spring Web MVC - 파일 업로드와 MultipartFile</a></br><a href=https://jhyngu.tistory.com/76>HttpServletRequest 객체에서 Parameter와 Attribute의 차이</a></br><a href=https://jhyngu.tistory.com/75>Spring Web MVC -  WebMvcConfigurer</a></br><a href=https://jhyngu.tistory.com/74>Spring Web MVC - HandlerInterceptor</a></br><a href=https://jhyngu.tistory.com/73>리다이렉트(Redirect)와 포워드(Forward)</a></br>
+<a href=https://jhyngu.tistory.com/82>스프링 OAuth2 클라이언트 세션 1 : 실습 목표 및 간단한 동작 원리</a></br><a href=https://jhyngu.tistory.com/81>REST API - @RestController</a></br><a href=https://jhyngu.tistory.com/80>REST API - XML과 JSON</a></br><a href=https://jhyngu.tistory.com/79>REST API - 개요</a></br><a href=https://jhyngu.tistory.com/78>Spring Web MVC - 파일 다운로드</a></br>

@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/85>스프링 OAuth2 클라이언트 세션 4 : OAuth2 변수 역할</a></br><a href=https://jhyngu.tistory.com/84>스프링 OAuth2 클라이언트 세션 3 : 동작 원리</a></br><a href=https://jhyngu.tistory.com/83>스프링 OAuth2 클라이언트 세션 2 : 프로젝트 생성 및 의존성 추가</a></br><a href=https://jhyngu.tistory.com/82>스프링 OAuth2 클라이언트 세션 1 : 실습 목표 및 간단한 동작 원리</a></br><a href=https://jhyngu.tistory.com/81>REST API - @RestController</a></br>
+<a href=https://jhyngu.tistory.com/90>스프링 OAuth2 클라이언트 세션 9 : 응답 데이터로 로그인 완료</a></br><a href=https://jhyngu.tistory.com/89>스프링 OAuth2 클라이언트 세션 8 : OAuth2UserService 응답 받기</a></br><a href=https://jhyngu.tistory.com/88>스프링 OAuth2 클라이언트 세션 7 : 구글 소셜 로그인 신청</a></br><a href=https://jhyngu.tistory.com/87>스프링 OAuth2 클라이언트 세션 6 : 네이버 소셜 로그인 신청</a></br><a href=https://jhyngu.tistory.com/86>스프링 OAuth2 클라이언트 세션 5 : SecurityConfig 등록</a></br>

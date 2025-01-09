@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/90>스프링 OAuth2 클라이언트 세션 9 : 응답 데이터로 로그인 완료</a></br><a href=https://jhyngu.tistory.com/89>스프링 OAuth2 클라이언트 세션 8 : OAuth2UserService 응답 받기</a></br><a href=https://jhyngu.tistory.com/88>스프링 OAuth2 클라이언트 세션 7 : 구글 소셜 로그인 신청</a></br><a href=https://jhyngu.tistory.com/87>스프링 OAuth2 클라이언트 세션 6 : 네이버 소셜 로그인 신청</a></br><a href=https://jhyngu.tistory.com/86>스프링 OAuth2 클라이언트 세션 5 : SecurityConfig 등록</a></br>
+<a href=https://jhyngu.tistory.com/95>스프링 OAuth2 클라이언트 세션 13 : OAuth2AuthorizationRequestRedirectFilter</a></br><a href=https://jhyngu.tistory.com/94>스프링 OAuth2 클라이언트 세션 12 : ClientRegistration</a></br><a href=https://jhyngu.tistory.com/93>스프링 OAuth2 클라이언트 세션 11 : 커스텀 로그인 페이지</a></br><a href=https://jhyngu.tistory.com/92>스프링 OAuth2 클라이언트 세션 : 로그인 및 DB 저장 테스트</a></br><a href=https://jhyngu.tistory.com/91>스프링 OAuth2 클라이언트 세션 10 : 유저 정보 DB 저장</a></br>

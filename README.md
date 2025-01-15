@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/133>스프링 OAuth2 클라이언트 JWT 1 : 소셜 로그인 실습 목표</a></br><a href=https://jhyngu.tistory.com/110>영속성 컨텍스트와 엔티티의 생명 주기</a></br><a href=https://jhyngu.tistory.com/109>JPA - Entity 관련 애너테이션</a></br><a href=https://jhyngu.tistory.com/108>JPA - @Column 데이터베이스 컬럼 매핑</a></br><a href=https://jhyngu.tistory.com/107>JPA의 @GeneratedValue 전략</a></br>
+<a href=https://jhyngu.tistory.com/113>Spring Data JPA 개요</a></br><a href=https://jhyngu.tistory.com/112>JPA - JPQL (Java Persistence Query Language)</a></br><a href=https://jhyngu.tistory.com/111>JPA - 연관관계 매핑</a></br><a href=https://jhyngu.tistory.com/133>스프링 OAuth2 클라이언트 JWT 1 : 소셜 로그인 실습 목표</a></br><a href=https://jhyngu.tistory.com/110>영속성 컨텍스트와 엔티티의 생명 주기</a></br>

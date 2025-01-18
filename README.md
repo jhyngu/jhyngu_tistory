@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/119>QueryDSL 소개</a></br><a href=https://jhyngu.tistory.com/118>Spring Data JPA - Pageable</a></br><a href=https://jhyngu.tistory.com/117>Spring Data JPA - Sort</a></br><a href=https://jhyngu.tistory.com/142>REDBOX(헌혈증 기부 시스템) - JWT 정리</a></br><a href=https://jhyngu.tistory.com/116>Spring Data JPA - JPA Query Methods</a></br>
+<a href=https://jhyngu.tistory.com/126>GitHub 프로필 README 꾸미기</a></br><a href=https://jhyngu.tistory.com/125>Git CLI 기본 명령어 정리</a></br><a href=https://jhyngu.tistory.com/124>GitHub에서 Personal Access Token (PAT, 토큰) 생성하기</a></br><a href=https://jhyngu.tistory.com/123>버전 관리 시스템 - Version Control System</a></br><a href=https://jhyngu.tistory.com/122>Mac(Mx)에서 VMWare Ubuntu Desktop 설치하기</a></br>

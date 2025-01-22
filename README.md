@@ -4,4 +4,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://jhyngu.tistory.com/136>리눅스 사용자 권한 (chmod, chown, chgrp)</a></br><a href=https://jhyngu.tistory.com/135>리눅스 sudo(superuser do) 와 su(substitute user) 명령어</a></br><a href=https://jhyngu.tistory.com/134>리눅스 사용자 계정</a></br><a href=https://jhyngu.tistory.com/145>Docker 기초 이론</a></br><a href=https://jhyngu.tistory.com/144>Docker 설치 및 실행</a></br>
+<a href=https://jhyngu.tistory.com/146>도커 nodejs 실습 프로젝트</a></br><a href=https://jhyngu.tistory.com/139>우분투 리눅스에서 MariaDB 설치 및 초기 설정</a></br><a href=https://jhyngu.tistory.com/138>리눅스 패키지(apt)과 압축(tar, gz)</a></br><a href=https://jhyngu.tistory.com/137>리눅스 프로세스 관리 (ps, top, kill..)</a></br><a href=https://jhyngu.tistory.com/136>리눅스 사용자 권한 (chmod, chown, chgrp)</a></br>
